@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "Which country has won the most FIFA World Cups?",
+      "options": ["Germany", "Brazil", "Italy", "Argentina"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who holds the record for the most goals in a single World Cup?",
+      "options": ["Pele", "Just Fontaine", "Miroslav Klose", "Gerd Muller"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which club has won the most Champions League titles?",
+      "options": ["Barcelona", "Liverpool", "AC Milan", "Real Madrid"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "options": ["Russia", "Brazil", "South Africa", "Germany"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who is the top scorer in Premier League history?",
+      "options": [
+        "Alan Shearer",
+        "Thierry Henry",
+        "Wayne Rooney",
+        "Sergio Aguero"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which team won the first ever FIFA World Cup in 1930?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+      "options": ["Diego Maradona", "Lionel Messi", "Pelé", "Zinedine Zidane"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which club is known as 'The Red Devils'?",
+      "options": [
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Chelsea"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which player is known for the nickname 'El Fenómeno'?",
+      "options": [
+        "Lionel Messi",
+        "Ronaldo Nazário",
+        "Ronaldinho",
+        "Cristiano Ronaldo"
+      ],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
